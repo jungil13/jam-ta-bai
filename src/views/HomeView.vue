@@ -32,7 +32,7 @@
     <gallery/>
   </section>
 
-   <section id="music" class="min-h-screen py-16 p-12">
+   <section id="music" class="min-h-screen py-16 p-6">
     <h2 class="text-5xl font-bold text-center mb-8">𝓜𝓾𝓼𝓲𝓬 🎶</h2>
     <p class="text-center text-gray-600">Listen to some of our original tracks and covers.</p>
     <music />
