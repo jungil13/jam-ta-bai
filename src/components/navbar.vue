@@ -5,7 +5,7 @@
         <!-- Logo Section -->
         <div class="flex items-center space-x-2">
           <img src="../assets/img/jtb.png" alt="logo" class="w-20 h-10">
-          <span class="text-xl font-bold">𝓙𝓪𝓶 𝓽𝓪 𝓑𝓪𝓲! 🍺</span>
+          <span class="text-xl font-bold">𝓙𝓪𝓶 𝓽𝓪 𝓑𝓪𝓲!</span>
         </div>
 
         <!-- Navigation Links (Desktop) -->
